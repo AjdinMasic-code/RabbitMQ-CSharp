@@ -3,6 +3,8 @@ RabbitMQ demo with C#
 
 This code base uses C# to demo RabbitMQ. For this demo you will need Docker installed and some basic knowledge of docker commands if you are using Windows. For this project to work you will also need Visual Studio 2022. The edition doesn't matter.
 
+After downloading the projects, perform a clean on the solution, and then perform a build. Rebuild is spotty.
+
 This demo was developed on Windows using Docker.
 
 <a href="https://www.docker.com/products/docker-desktop/" title="Docker Desktop Link">Docker Desktop Link </a>
