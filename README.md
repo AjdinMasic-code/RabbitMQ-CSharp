@@ -1,2 +1,2 @@
-# RabbitMQ-C-
+# RabbitMQ-C#
 RabbitMQ demo with C#
