@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuCyj6V+X4TvY25UQ1mMyhCiDSxYONR1xrZGetDj2Swnb7miSMg0gY43ZUMeSMGxt/xDE4OHViKyqHTl06p8tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajdin\\source\\repos\\RabbitMq_Demo_CSharp\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajdin\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\ajdin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ajdin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
